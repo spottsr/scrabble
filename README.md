@@ -1,5 +1,5 @@
 scrabble
 ========
 
-Code challenge written in Pyton
-V.1
+Code challenge written in Pyhton
+V.2
